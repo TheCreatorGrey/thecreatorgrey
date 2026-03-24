@@ -1,6 +1,5 @@
-Hello, 
-I'm a Python and JavaScript developer with 5ish years of
-total experience.
+Hello, I'm a hobbyist programmer. I mostly write in Python and JavaScript
+with about 5 and 3 years of experience respectively.
 
-If you want to see some of my stuff, heres my portfolio :}
+Here's muh 'folio
 https://thecreatorgrey.com
